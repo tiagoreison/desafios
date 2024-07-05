@@ -1,4 +1,6 @@
-// Definindo as variáveis para armazenar o nome e a experiência do herói
+// Desafio - Classificador de Nível de Herói 
+// Formação Lógica de Programação
+
 let Heroi = "Homem Aranha";
 let experiencia = 1230;
 
